@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-# Ashutosh Kumar Mishra · [@mishraashu6566](https://github.com/mishraashu6566)
+# Ashutosh Kumar Mishra · [@akmdevx](https://github.com/akmdevx)
 
 ### Doctoral Researcher, Computational Physics, AI
 
