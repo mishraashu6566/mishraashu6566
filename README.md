@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**mishraashu6566/mishraashu6566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ashutosh Kumar Mishra · [@mishraashu6566](https://github.com/mishraashu6566)
 
-Here are some ideas to get you started:
+### Doctoral Researcher, Theoretical & Computational Cosmology @ EPFL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌌 I am a PhD Student in Physics at the **Laboratory of Astrophysics (LASTRO)**, EPFL, Switzerland. My research focuses on **Wave Dark Matter**, **Physics-Informed Machine Learning**, and **large-scale cosmological simulations** to constrain dark matter models using **Epoch of Reionization** observations.
+
+
+➡️ Find me on:
+
+[Google Scholar](https://scholar.google.com/citations?user=B5HrOfYAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0009-0002-8819-8236) ·
+[EPFL](https://people.epfl.ch/ashutosh.mishra?lang=en) ·
+[GitHub](https://github.com/mishraashu6566) ·
+[LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-mishra-36a465190)
