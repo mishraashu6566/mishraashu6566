@@ -2,7 +2,7 @@
 
 # Ashutosh Kumar Mishra · [@mishraashu6566](https://github.com/mishraashu6566)
 
-### Doctoral Researcher, Theoretical & Computational Cosmology @ EPFL
+### Doctoral Researcher, Computational Physics, AI
 
 🌌 I am a PhD Student in Physics at the **Laboratory of Astrophysics (LASTRO)**, EPFL, Switzerland. My research focuses on **Wave Dark Matter**, **Physics-Informed Machine Learning**, and **large-scale cosmological simulations** to constrain dark matter models using **Epoch of Reionization** observations.
 
